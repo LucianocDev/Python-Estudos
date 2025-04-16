@@ -21,3 +21,22 @@ Este repositório tem como objetivo documentar e compartilhar meu progresso como
 ├── Aulas/          # Códigos e anotações de aulas
 ├── Exercicios/     # Exercícios resolvidos por tema
 ├── README.md       # Este arquivo
+
+💡 Objetivo
+Consolidar conhecimentos em lógica e sintaxe Python
+
+Criar um portfólio de estudo e prática
+
+Evoluir para projetos de automação, análise de dados e desenvolvimento web
+
+🧰 Tecnologias e Ferramentas
+Python 3.x
+
+VS Code + Extensões
+
+Git e GitHub
+
+👨‍💻 Autor
+Luciano Campos da Silva
+🔗 LinkedIn
+📦 GitHub: LucianocDev
