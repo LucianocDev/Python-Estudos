@@ -21,8 +21,10 @@ Este repositório tem como objetivo documentar e compartilhar meu progresso como
 ├── Aulas/          # Códigos e anotações de aulas
 ├── Exercicios/     # Exercícios resolvidos por tema
 ├── README.md       # Este arquivo
+```
+---
 
-💡 Objetivo
+##💡 Objetivo
 Consolidar conhecimentos em lógica e sintaxe Python
 
 Criar um portfólio de estudo e prática
