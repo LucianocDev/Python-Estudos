@@ -40,5 +40,7 @@ Git e GitHub
 
 ## 👨‍💻 Autor
 Luciano Campos da Silva
-🔗 LinkedIn
-📦 GitHub: LucianocDev
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lucianocdev)
+
+📦 GitHub: [LucianocDev](https://github.com/LucianocDev)
