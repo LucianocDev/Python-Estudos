@@ -24,21 +24,21 @@ Este repositório tem como objetivo documentar e compartilhar meu progresso como
 ```
 ---
 
-##💡 Objetivo
+## 💡 Objetivo
 Consolidar conhecimentos em lógica e sintaxe Python
 
 Criar um portfólio de estudo e prática
 
 Evoluir para projetos de automação, análise de dados e desenvolvimento web
 
-🧰 Tecnologias e Ferramentas
+## 🧰 Tecnologias e Ferramentas
 Python 3.x
 
 VS Code + Extensões
 
 Git e GitHub
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Luciano Campos da Silva
 🔗 LinkedIn
 📦 GitHub: LucianocDev
