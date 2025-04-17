@@ -1,5 +1,7 @@
 # Operadores Lógicos em Python
 
+Exercicios ex001, ex002, ex003. (pasta de exercicios).
+
 Em Python, os operadores lógicos são utilizados para combinar ou modificar valores booleanos (`True` ou `False`). Eles são fundamentais para construir condições complexas em instruções de controle de fluxo (como `if`, `elif`, `else`, `while`) e para realizar operações lógicas em geral.
 
 ## Operadores Lógicos Disponíveis
