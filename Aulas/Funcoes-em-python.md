@@ -1,6 +1,6 @@
 # Estudo Detalhado sobre Funções em Python
 
-Exercicios ex004, ex005, ex006, ex007 (pasta de exercicios).
+Exercicios ex004, ex005, ex006, ex007, ex008 (pasta de exercicios).
 
 Funções são um dos pilares da programação em Python (e em muitas outras linguagens). Elas nos permitem organizar o código, torná-lo reutilizável e mais legível. Vamos detalhar o conceito.
 
