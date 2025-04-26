@@ -29,6 +29,5 @@ casas = {
         'Churrasqueira': True,
         'Preço': 1500000,
         'Parcelamento': ['10x150.000', '20x75.000', '30x50.000']
-
             }
 }
