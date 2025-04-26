@@ -1,5 +1,7 @@
 # Estudo Detalhado sobre Laços de Repetição em Python
 
+Exercicios ex009, ex010, ex011, ex012, ex013, ex014, ex015 (pasta de exercicios).
+
 Laços (ou loops) são estruturas de controle que permitem executar um bloco de código repetidamente. São essenciais para tarefas como processar itens em uma lista, ler linhas de um arquivo ou repetir uma ação até que uma condição seja satisfeita. Python oferece dois tipos principais de laços: `for` e `while`.
 
 ## O Laço `for`
