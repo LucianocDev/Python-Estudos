@@ -1,5 +1,7 @@
 # Compreensão de Listas (List Comprehensions) em Python
 
+Exercicios ex019, ex020, ex021 (pasta de exercicios).
+
 A compreensão de listas, ou *list comprehension*, é uma característica do Python que oferece uma sintaxe mais curta, elegante e muitas vezes mais eficiente para criar listas[1, 2, 5, 6, 8]. Ela permite gerar uma nova lista aplicando uma expressão a cada item de uma sequência ou iterável existente, opcionalmente filtrando itens com base em uma condição[4, 6]. Essencialmente, combina um loop `for` e, opcionalmente, uma condição `if` (ou `if-else`) em uma única linha concisa[2, 4].
 
 ## Sintaxe Básica

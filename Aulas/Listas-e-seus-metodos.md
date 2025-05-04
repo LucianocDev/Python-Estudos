@@ -1,5 +1,7 @@
 # Listas em Python: Um Guia Detalhado
 
+Não teve exercicios sobre listas, pois achei o conteúdo bem autoexplicativo.
+
 Listas são uma das estruturas de dados mais fundamentais e versáteis em Python. Elas permitem armazenar uma coleção ordenada e mutável de itens. Isso significa que você pode adicionar, remover ou alterar elementos após a criação da lista, e a ordem dos elementos é preservada[6]. Listas podem conter itens de diferentes tipos de dados, incluindo números, strings, outras listas, dicionários e mais[3].
 
 ## Criação de Listas
